@@ -1,4 +1,4 @@
-# 💼 Job Application Tracker – Mini CRM
+# 💼 Job Application Tracker / Job Portal
 
 A full-stack job tracking platform designed to simplify the process of managing job applications for job seekers and streamline job posting for recruiters. The system includes role-based access, real-time UI updates, secure authentication, and dynamic filtering to enhance productivity and user experience.
 
